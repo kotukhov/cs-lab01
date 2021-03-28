@@ -1,0 +1,7 @@
+﻿  lab01r.cpp
+C:\Users\user\Desktop\lab\lab01r\lab01r.cpp(68,33): warning C4244: =: преобразование "double" в "size_t", возможна потеря данных
+C:\Users\user\Desktop\lab\lab01r\lab01r.cpp(70,33): warning C4244: =: преобразование "double" в "size_t", возможна потеря данных
+C:\Users\user\Desktop\lab\lab01r\lab01r.cpp(74,41): warning C4244: =: преобразование "double" в "size_t", возможна потеря данных
+C:\Users\user\Desktop\lab\lab01r\lab01r.cpp(75,29): warning C4244: =: преобразование "double" в "size_t", возможна потеря данных
+C:\Users\user\Desktop\lab\lab01r\lab01r.cpp(83,27): warning C4018: <: несоответствие типов со знаком и без знака
+  lab01r.vcxproj -> C:\Users\user\Desktop\lab\lab01r\Debug\lab01r.exe
